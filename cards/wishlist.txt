@@ -4,9 +4,12 @@ Bucket list:
 3) Devops Architect/CKAD/GCP devops architect
 4) SRE
 5) 3 different websites based on courses ( )
+6) French B1 + Partial B2
 
-5) French B1 + Partial B2
-9-11
-1130 - 1
-2- 4
-430-6 30
+5-7 - go + CKAD
+9-11 -- MongoDB
+11:30 - 1 -- spring boot
+2- 4 -- dev ops + sre
+430-6 30 --  websites 
+9:00 - 9:45 French
+

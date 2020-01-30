@@ -1,12 +1,11 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
 
 	cards := newDeck()
-	fmt.Println(cards.toString())
+	cards.saveToFile("my_file")
 
+	retrieved_cards := savedDeck("my_file")
+
+	retrieved_cards.print()
 }
